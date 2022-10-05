@@ -1,6 +1,6 @@
 # Hi There👋
 
-Just a coder! I've enjoyed JavaScript and make it the main language in creating a project.
+Just a coder! I've enjoyed JavaScript and make it the main language in creating a project. [Click here](https://yadija.github.io) and [Here](https://codepen.io/yadija)
 
 <br>
 
