@@ -1,11 +1,12 @@
 # Hi There👋
 
-Just a coder! I've enjoyed JavaScript and make it the main language in creating a project. [Click here](https://yadija.github.io) and [Here](https://codepen.io/yadija)
+Just a coder! I've enjoyed JavaScript and make it the main language in creating a project.
 
 <br>
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="#"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" /></a>
   
 <br>
 <br>
